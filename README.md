@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Megha Soni!
 
-<!--
-**Meghasoni04/Meghasoni04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Aspiring Business Analyst | 📊 Data Enthusiast | 🔍 Problem Solver
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about data analysis, Power BI, and SQL.
+
+📈 Working on customer churn analysis, predictive modeling, and interactive dashboards.
+
+💻 Learning Python for data science and machine learning.
+
+🎯 Committed to improving my skills and building impactful projects.
+
+
+🛠️ Skills
+
+Data Analysis: Power BI, SQL, Excel
+
+Visualization Tools: Power BI, Tableau
+
+Programming: Python (learning)
+
+Business Analysis: Data insights, Reporting, Dashboard creation
+
+
+📚 Projects
+
+✅ Bank Customer Churn Analysis — Power BI dashboard analyzing customer behavior and churn patterns.
+
+
+📫 Connect with Me
+
+LinkedIn: (https://www.linkedin.com/in/megha-soni-b3271b1a2)
+
+Email: [meghasoni.me@gmail.com]
